@@ -4,7 +4,7 @@ authors:
 - family-names: "Gianluca"
   given-names: "Bianco"
 title: "my-docker-compose-files"
-version: 0.0.1
-doi: 
+version: 1.0.0
+doi: https://zenodo.org/badge/latestdoi/542150810
 date-released: 2022-09-27
 url: "https://github.com/JustWhit3/my-docker-compose-files"
