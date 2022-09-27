@@ -24,7 +24,7 @@ This repository contains all my docker-compose files. The only purpose for the e
 
 ### [cpp_compilers_testing](https://github.com/JustWhit3/my-docker-compose-files/files/cpp_compilers_testing)
 
-**Description**: this docker-compose file is used to test different C++ compilers (gcc, clang, etc...) and their different versions on the same file, without the needing of installing each version / compiler in your machine.
+**Description**: this docker-compose file is used to test different C++ compilers (gcc, clang, etc...) and their different versions on the same file, without the needing of installing each version / compiler in your machine. With the same purpose you can use it also to test different C++ standards.
 
 **Usage**: add new lines with other compilers or other compilers versions to the .yml file and then run the required compiler version on the example file [test.cpp](https://github.com/JustWhit3/my-docker-compose-files/files/cpp_compilers_testing/test.cpp).
 
